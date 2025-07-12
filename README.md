@@ -15,6 +15,5 @@ Used MoveIt to create safe, smooth trajectories for the manipulator to reach giv
 Visualized the planning and execution process in RVIZ and Gazebo.
 
 ## Project Team 
-Shahd Mohse
-
+Shahd Mohsen
 Ibrahim Mohamed
